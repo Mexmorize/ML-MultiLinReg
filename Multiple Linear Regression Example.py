@@ -99,9 +99,7 @@ of 0.05"""
 
 
 """
-Hi guys,
-
-if you are also interested in some automatic implementations of Backward Elimination in Python, please find two of them below:
+Ways for automatic implementations of Backward Elimination in Python:
 
 Backward Elimination with p-values only:
 
